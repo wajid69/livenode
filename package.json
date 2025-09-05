@@ -1,0 +1,29 @@
+{
+  "name": "livenode",
+  "version": "1.0.0",
+  "description": "A powerful and minimal alternative to nodemon for live-reloading Node.js apps.",
+  "main": "cli.js",
+  "bin": {
+    "livenode": "cli.js"
+  },
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  },
+  "keywords": [
+    "nodemon",
+    "live-reload",
+    "watch",
+    "cli",
+    "nodejs",
+    "devtool"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wajid69/livenode.git"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
