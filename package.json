@@ -1,6 +1,6 @@
 {
   "name": "livenode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful and minimal alternative to nodemon for live-reloading Node.js apps.",
   "main": "cli.js",
   "bin": {
